@@ -4,7 +4,7 @@
 * 🎼 I'm currently learning PHP8, ES6 & React.
 * 🐈 person.
 
-## :bowtie: Knows 
+## Knows :bowtie:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/laranz/)
 [![Website](https://img.shields.io/badge/-Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.wptitans.com)
 
-## :godmode: Stats
+## Stats :godmode:
 <a href="https://github.com/laranz/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=laranz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -37,3 +37,7 @@
 - [Better Call Saul – Bagman](https://laranz.in/better-call-saul-bagman/)
 - [12 Monkeys!](https://laranz.in/hello-world/)
 <!-- BLOG-POST-LIST:END -->
+
+<a href="https://github.com/laranz/">
+<img src="https://komarev.com/ghpvc/?username=laranz" alt="laranz" />
+</a
