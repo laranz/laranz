@@ -1,4 +1,4 @@
-# வணக்கம் மக்களே! 👋 I'm Lawrence.
+# வணக்கம் மக்களே! <img src="https://github.com/laranz/laranz/blob/main/hi.gif" width="35px" /> I'm Lawrence.
 
 * 👨‍💻 I'm currently working with [AyeCode](https://ayecode.io)
 * 🎼 I'm currently learning PHP8, ES6 & React.
