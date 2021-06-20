@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.wptitans.com/feed/,https://www.laranz.in/feed/"
+          template: "[$randomEmoji] - '$date' - [$title]($url) $newline $description $newline"
