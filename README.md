@@ -31,18 +31,11 @@
 
 
 ## ✍️ Latest Blog Posts.
-<!-- BLOG-POST-LIST:START -->[$randomEmoji] - 'Thu Mar 18 2021 8:12 PM' - [Setting up PHP_CodeSniffer & Auto Formatter for WordPress Development in PhpStorm](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-phpstorm/) 
- <p>Increase your WordPress Code Quality automagically in PhpStrom. </p>
-<p>The post <a rel="nofollow" href="https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-phpstorm/">Setting up PHP_CodeSniffer &#038; Auto Formatter for WordPress Development in PhpStorm</a> appeared first on <a rel="nofollow" href="https://wptitans.com">WPTitans - WordPress Titans</a>.</p>
- 
-[$randomEmoji] - 'Thu Feb 11 2021 6:55 AM' - [Setting up PHP_CodeSniffer & Auto Formatter for WordPress Development in Visual Studio Code](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-visual-studio-code/) 
- <p>Increase your WordPress Code Quality automagically.</p>
-<p>The post <a rel="nofollow" href="https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-visual-studio-code/">Setting up PHP_CodeSniffer &#038; Auto Formatter for WordPress Development in Visual Studio Code</a> appeared first on <a rel="nofollow" href="https://wptitans.com">WPTitans - WordPress Titans</a>.</p>
- 
-[$randomEmoji] - 'Wed May 13 2020 4:24 PM' - [Better Call Saul – Bagman](https://laranz.in/better-call-saul-bagman/) 
- STORY LINE: The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico. 
-[$randomEmoji] - 'Sat Mar 23 2019 12:51 PM' - [12 Monkeys!](https://laranz.in/hello-world/) 
- Amanda Schull as Dr. Cassandra &#8220;Cassie&#8221; Railly, a virologist who leaves a message about the origins of the plague that scientists recover in the future Whoever you are today is not who you have to be tomorrow. &#8211; Cassie ( 12 Monkeys ) 
+<!-- BLOG-POST-LIST:START -->
+- [Setting up PHP_CodeSniffer & Auto Formatter for WordPress Development in PhpStorm](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-phpstorm/)
+- [Setting up PHP_CodeSniffer & Auto Formatter for WordPress Development in Visual Studio Code](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-visual-studio-code/)
+- [Better Call Saul – Bagman](https://laranz.in/better-call-saul-bagman/)
+- [12 Monkeys!](https://laranz.in/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/laranz/">
