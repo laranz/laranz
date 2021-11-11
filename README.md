@@ -34,8 +34,8 @@
 
 ## ✍️ Latest Blog Posts.
 <!-- BLOG-POST-LIST:START -->
-- [Setting up PHP_CodeSniffer & Auto Formatter for WordPress Development in PhpStorm](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-phpstorm/)
-- [Setting up PHP_CodeSniffer & Auto Formatter for WordPress Development in Visual Studio Code](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-visual-studio-code/)
+- [Setting up PHP_CodeSniffer &amp; Auto Formatter for WordPress Development in PhpStorm](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-phpstorm/)
+- [Setting up PHP_CodeSniffer &amp; Auto Formatter for WordPress Development in Visual Studio Code](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-visual-studio-code/)
 - [Better Call Saul – Bagman](https://laranz.in/better-call-saul-bagman/)
 - [12 Monkeys!](https://laranz.in/hello-world/)
 <!-- BLOG-POST-LIST:END -->
