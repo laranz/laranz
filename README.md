@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=WordPress+Q/A+Developer;Nice+to+meet+you...)](#)
 
-* 👨‍💻 I'm currently working with [AyeCode](https://ayecode.io)
 * 🎼 I'm currently learning PHP8, ES6 & React.
 * 🐈 person.
 
