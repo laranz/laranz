@@ -1,4 +1,4 @@
-# வணக்கம் மக்களே! <img src="https://github.com/laranz/laranz/blob/main/hi.gif" width="35px" /> I'm Lawrence.
+# வணக்கம் மக்களே! <img src="https://github.com/laranz/laranz/blob/main/hi.gif" height="35px" width="35px" /> I'm Lawrence.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=WordPress+Q/A+Developer;Nice+to+meet+you...)](#)
 
