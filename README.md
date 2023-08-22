@@ -33,6 +33,7 @@
 
 ## ✍️ Latest Blog Posts.
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Your macOS for PHP or WordPress Web Development](https://wptitans.com/setting-up-your-macos-for-php-or-wordpress-web-development/)
 - [Setting up PHP_CodeSniffer &amp; Auto Formatter for WordPress Development in PhpStorm](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-phpstorm/)
 - [Setting up PHP_CodeSniffer &amp; Auto Formatter for WordPress Development in Visual Studio Code](https://wptitans.com/setting-up-php_codesniffer-auto-formatter-for-wordpress-development-in-visual-studio-code/)
 <!-- BLOG-POST-LIST:END -->
