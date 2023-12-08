@@ -20,11 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/laranz/)
 [![Website](https://img.shields.io/badge/-Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.wptitans.com)
 
-## Stats :godmode:
-<a href="https://github.com/laranz/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laranz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
